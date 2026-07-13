@@ -1,117 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Gaurav%20Nagrale&fontSize=55&fontAlignY=40&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Gaurav%20Nagrale&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm Gaurav Nagrale
 
-### 💻 Software Engineer • Full Stack Developer • AI & Cyber Security Enthusiast
+### 💻 Software Engineer • Full Stack Developer • AI • Cyber Security
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Full+Stack+Developer;AI+%7C+Cloud+%7C+Cyber+Security;Always+Learning+New+Technologies;Open+to+Software+Engineering+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Cyber+Security+Explorer;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Gaurav999-byte&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Gaurav999-byte&style=for-the-badge&color=0e75b6"/>
+
 <img src="https://img.shields.io/github/followers/Gaurav999-byte?style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/stars/Gaurav999-byte?affiliations=OWNER&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
+
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ⚡ About Me
 
 ```java
 public class Gaurav {
 
     String role = "Software Engineer";
 
-    String education =
+    String degree =
         "B.Tech Computer Science (Cyber Security)";
 
     double cgpa = 9.16;
 
+    String company =
+        "Former Software Engineer Intern @ VinylVista";
+
     String[] interests = {
+
         "Backend Development",
+
         "Artificial Intelligence",
+
         "Cloud Computing",
+
         "Cyber Security",
-        "System Design"
+
+        "Machine Learning",
+
+        "Open Source"
+
     };
 
     String[] currentlyLearning = {
+
         "Spring Boot",
-        "Microservices",
+
         "Docker",
+
         "Kubernetes",
-        "AWS"
+
+        "System Design"
+
     };
+
+    String motto =
+        "Turning ideas into scalable software.";
 
 }
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css"/>
+
 </p>
 
-### Frontend
+---
+
+## 🎨 Frontend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind"/>
+
 </p>
 
-### Backend
+---
+
+## ⚙ Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase"/>
+
 </p>
 
-### Database
+---
+
+## 🗄 Database
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+
 </p>
 
-### Cloud & Tools
+---
+
+## ☁ Cloud & Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=gcp,git,github,linux,postman,vscode"/>
+
 </p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔐 ML-Enhanced Governance & Risk Assessment using SAST
-
-✔ AI-powered Static Application Security Testing
-
-✔ Machine Learning Risk Classification
-
-✔ FastAPI Backend
-
-✔ ISO27001 & GDPR Mapping
-
-✔ Automated PDF Reports
-
----
-
-## 🛒 ViViStore
-
-✔ MERN Stack
-
-✔ JWT Authentication
-
-✔ Redux Toolkit
-
-✔ PayPal Integration
-
-✔ Responsive UI
 
 ---
 
@@ -153,6 +165,36 @@ public class Gaurav {
 
 ---
 
+# 🚀 Featured Projects
+
+## 🔐 ML-Enhanced Governance & Risk Assessment using SAST
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav999-byte&repo=YOUR_REPOSITORY_NAME&theme=tokyonight"/>
+
+### ✨ Highlights
+
+- 🤖 AI-powered Static Application Security Testing
+- 🧠 Machine Learning Risk Classification
+- ⚡ FastAPI Backend
+- 📄 Automated PDF Reports
+- 🛡 ISO 27001 & GDPR Governance Mapping
+
+---
+
+## 🛒 ViViStore
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav999-byte&repo=YOUR_REPOSITORY_NAME&theme=tokyonight"/>
+
+### ✨ Highlights
+
+- ⚛ MERN Stack
+- 🔐 JWT Authentication
+- 💳 PayPal Integration
+- ⚡ Redux Toolkit
+- 📱 Responsive UI
+
+---
+
 # 📜 Certifications
 
 🏅 Google Cloud Generative AI
@@ -163,19 +205,47 @@ public class Gaurav {
 
 ---
 
+# 🎯 2026 Goals
+
+```text
+🎯 Crack a Software Engineer Role
+
+🎯 Master Spring Boot
+
+🎯 Learn Docker & Kubernetes
+
+🎯 Contribute to Open Source
+
+🎯 Build SaaS Products
+
+🎯 Reach 1000+ GitHub Contributions
+```
+
+---
+
+# 💡 Developer Quote
+
+> **"Turning ideas into scalable software, one commit at a time."**
+
+---
+
 # 📫 Connect With Me
+
+<p>
 
 📧 **gauravnagrale275@gmail.com**
 
-GitHub:
+💻 **GitHub**
 https://github.com/Gaurav999-byte
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### ⭐ Thanks for visiting my profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient"/>
 
 </div>
