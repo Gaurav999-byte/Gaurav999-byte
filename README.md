@@ -1,85 +1,181 @@
-```{=html}
-<!-- Crazy GitHub Profile README -->
-```
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=GAURAV%20NAGRALE&fontSize=48&fontColor=ffffff&animation=twinkling"/>`{=html}
+<div align="center">
 
-```{=html}
-<h1 align="center">
-```
-⚡ Software Engineer • AI Builder • Cyber Security • Full Stack ⚡
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&center=true&vCenter=true&width=900&lines=Building+Things+That+Matter;Full+Stack+Developer;AI+%7C+Cloud+%7C+Cyber+Security;Java+%7C+Python+%7C+React+%7C+Node.js;Always+Learning+🚀"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Gaurav999-byte&style=for-the-badge&color=blue"/>`{=html}
-`<img src="https://img.shields.io/github/followers/Gaurav999-byte?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-# 🧠 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Gaurav%20Nagrale&fontSize=55&fontAlignY=40&animation=twinkling"/>
 
-``` ts
-const gaurav = {
- name:"Gaurav Nagrale",
- role:"Software Engineer",
- degree:"B.Tech CSE (Cyber Security)",
- cgpa:"9.16/10",
- location:"India",
- tech:["Java","Python","React","Node","FastAPI","MongoDB","SQL","GCP"],
- interests:["AI","Cloud","Backend","Cyber Security"],
- currently:"Building impactful full-stack applications."
+# 👋 Hi, I'm Gaurav Nagrale
+
+### 💻 Software Engineer • Full Stack Developer • AI & Cyber Security Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Full+Stack+Developer;AI+%7C+Cloud+%7C+Cyber+Security;Always+Learning+New+Technologies;Open+to+Software+Engineering+Roles"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Gaurav999-byte&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Gaurav999-byte?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Gaurav999-byte?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```java
+public class Gaurav {
+
+    String role = "Software Engineer";
+
+    String education =
+        "B.Tech Computer Science (Cyber Security)";
+
+    double cgpa = 9.16;
+
+    String[] interests = {
+        "Backend Development",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Cyber Security",
+        "System Design"
+    };
+
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "AWS"
+    };
+
 }
 ```
 
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,git,github,linux,postman,vscode"/>
+</p>
+
+---
+
 # 🚀 Featured Projects
 
-## 🤖 ML-Enhanced Governance & Risk Assessment of Mobile Applications using SAST
+## 🔐 ML-Enhanced Governance & Risk Assessment using SAST
 
--   AI-powered Static Application Security Testing
--   FastAPI + Machine Learning + Androguard
--   Governance mapping (ISO27001/GDPR)
--   Automated PDF reporting
+✔ AI-powered Static Application Security Testing
+
+✔ Machine Learning Risk Classification
+
+✔ FastAPI Backend
+
+✔ ISO27001 & GDPR Mapping
+
+✔ Automated PDF Reports
+
+---
 
 ## 🛒 ViViStore
 
--   MERN E-Commerce Platform
--   JWT Authentication
--   Redux Toolkit
--   PayPal Integration
+✔ MERN Stack
 
-# 🛠 Tech Arsenal
+✔ JWT Authentication
 
-![My
-Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,linux,vscode,gcp,fastapi)
+✔ Redux Toolkit
 
-# 📈 GitHub Analytics
+✔ PayPal Integration
 
-![](https://github-readme-stats.vercel.app/api?username=Gaurav999-byte&show_icons=true&theme=tokyonight&hide_border=true)
+✔ Responsive UI
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav999-byte&theme=tokyonight&hide_border=true)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav999-byte&layout=compact&theme=tokyonight&hide_border=true)
+# 📊 GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=Gaurav999-byte&theme=algolia&no-frame=true&margin-w=10)
+<p align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav999-byte&theme=tokyo-night)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav999-byte&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📬 Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav999-byte&layout=compact&theme=tokyonight&hide_border=true"/>
 
--   📧 gauravnagrale275@gmail.com
+</p>
 
-------------------------------------------------------------------------
+<p align="center">
 
-> *"Code. Learn. Build. Repeat."*
+<img src="https://streak-stats.demolab.com?user=Gaurav999-byte&theme=tokyonight&hide_border=true"/>
 
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2575fc,100:6a11cb"/>`{=html}
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gaurav999-byte&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav999-byte&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+🏅 Google Cloud Generative AI
+
+🏅 Wipro TalentNext .NET Full Stack
+
+🏅 Postman API Student Expert
+
+---
+
+# 📫 Connect With Me
+
+📧 **gauravnagrale275@gmail.com**
+
+GitHub:
+https://github.com/Gaurav999-byte
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+</div>
